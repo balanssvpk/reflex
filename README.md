@@ -2,6 +2,8 @@ Folder structure:
 
 root>
 
+>venv
+
 >dashboards>
 
 1.__init__.py
